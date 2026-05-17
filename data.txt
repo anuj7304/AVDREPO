@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Namastey India
+=======
+Hello World!
+>>>>>>> b1
