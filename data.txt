@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Namastey India
-=======
-Hello World!
->>>>>>> b1
+Hello World
